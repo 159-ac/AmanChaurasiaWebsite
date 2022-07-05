@@ -41,8 +41,8 @@ body{
     margin: 0 auto 0 auto;
     font-family: 'Yellowtail', cursive;
     font-size: 1.8rem;
-    position: absolute;
-    right: 29rem;
+    position: relative;
+    padding-left: 32rem;
     color: #184a4a;
 }
 
