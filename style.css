@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+
+.cloud{
+    position: relative;
+    left: 28rem;
+}
+
+.cloud-2{
+    position: relative;
+    right: 28rem;
+}
+
+.hello{
+    font-size: 3rem;
+    margin: 1rem auto 0 auto;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.mountain{
+   width: 100%;
+   position: relative;
+   top: -20px;
+}
+
+.name{
+    margin: 0 auto 0 auto;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 5rem;
+    color: #53a4a4;
+
+}
+
+.Profile-Picture{
+    width: 14%;
+}
+
+.title{
+    margin: 0 auto 0 auto;
+    font-family: 'Yellowtail', cursive;
+    font-size: 1.8rem;
+    position: absolute;
+    right: 29rem;
+    color: #184a4a;
+}
+
+.top-layer{
+    background-color: #eaf6f6;    
+}
